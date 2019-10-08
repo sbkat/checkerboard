@@ -1,0 +1,14 @@
+#checker_1 {
+    width:20px;
+    height:20px;
+    background-color: {{color1}};
+    display: inline-block;
+    margin:0;
+}
+
+#checker_2 {
+    width:20px;
+    height:20px;
+    background-color: {{color2}};
+    display: inline-block;
+}
